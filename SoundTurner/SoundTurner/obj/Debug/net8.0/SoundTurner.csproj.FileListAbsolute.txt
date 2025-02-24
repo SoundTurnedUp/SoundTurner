@@ -1,0 +1,14 @@
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\SoundTurner.exe
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\SoundTurner.deps.json
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\SoundTurner.runtimeconfig.json
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\SoundTurner.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\SoundTurner.pdb
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.AssemblyInfoInputs.cache
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.AssemblyInfo.cs
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.csproj.CoreCompileInputs.cache
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\refint\SoundTurner.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.pdb
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.genruntimeconfig.cache
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\ref\SoundTurner.dll
