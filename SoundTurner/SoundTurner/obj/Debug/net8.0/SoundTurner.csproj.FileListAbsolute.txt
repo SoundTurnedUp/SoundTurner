@@ -12,3 +12,11 @@ C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\re
 C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.pdb
 C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.genruntimeconfig.cache
 C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\ref\SoundTurner.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\NAudio.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTurner.csproj.AssemblyReference.cache
+C:\Users\manny\source\repos\Projects\SoundTurner\SoundTurner\obj\Debug\net8.0\SoundTur.58F263C9.Up2Date
