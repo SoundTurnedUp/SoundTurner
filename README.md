@@ -1,0 +1,1 @@
+A music player (eventually...) that i'm trying to make, however im primarily just trying to learn new cool UI in the console since it's pretty fun to do, but pretty challenging. Plus consoleApps are pretty interesting to try and make.
